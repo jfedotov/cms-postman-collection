@@ -10685,7 +10685,7 @@
 							]
 						},
 						"url": {
-							"raw": "https://{{mmpHost}}/api/v1/accessQuery?uri&CallId",
+							"raw": "https://{{mmpHost}}/api/v1/accessQuery?",
 							"protocol": "https",
 							"host": [
 								"{{mmpHost}}"
@@ -10719,7 +10719,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{mmpHost}}/api/v1/conversationIdQuery?conversationId=String",
+							"raw": "https://{{mmpHost}}/api/v1/conversationIdQuery?",
 							"protocol": "https",
 							"host": [
 								"{{mmpHost}}"
